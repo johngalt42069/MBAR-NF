@@ -4,7 +4,7 @@ This repo is modified for use in video games, and does not contain any functiona
 
 I am giving permission for any game developer to use this in any game free of charge. I only ask that you do your best to depict the rifle accurately, and acknowledge me as the creator. Please contact me at johngalt@atlas-eng.net if you have any questions.
 
-I would highly encourage watching the videos on my Youtube channel (https://www.youtube.com/@johngalt42069) to learn how the rifle works. I've spent many hours documenting it as accurately as possible.
+I would highly encourage watching the videos on my [Youtube channel](https://www.youtube.com/@johngalt4206) to learn how the rifle works. I've spent many hours documenting it as accurately as possible.
 
 Specs of IRL rifle:
 Basic empty weight: 6lbs (unloaded no optic laser flashlight or any other accessory)
@@ -14,13 +14,13 @@ Length of pull: 13.5in (basically the same as an AUG)
 Trigger Weight: varies based on the FCM used
 Rate of fire: ~500 RPM
 Cartridge:
-* https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-15_cartridges any of these since rifle can accept any AR-15 bolt and barrel
-* https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-10_cartridges any of these since rifle can accept any AR-10 bolt and barrel 
+* [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-15_cartridges) since rifle can accept any AR-15 bolt and barrel
+* [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-10_cartridges) since rifle can accept any AR-10 bolt and barrel 
 Feed system:
 Currently Supported:
 * STANAG pattern box magazines
 * SR-25 pattern box magazines
-* AKM/AK47 pattern magazines https://www.youtube.com/watch?v=b_HmSsgaH1Y
+* [AKM/AK47 pattern magazines](https://www.youtube.com/watch?v=b_HmSsgaH1Y)
 * AK74 pattern magazines
 * SIX8/Magpul ICAR magazines
 
@@ -37,7 +37,7 @@ Additional features:
 
 ### 5.56 NATO Build
 
-![Side](RENDERS/perspective.png)
+![Perspective](RENDERS/perspective.png)
 
 ### Sniper Variant with Brass Catcher
 
