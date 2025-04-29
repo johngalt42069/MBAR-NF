@@ -22,18 +22,21 @@ Rate of fire: ~500 RPM
 
 Cartridge:
 * [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-15_cartridges) since rifle can accept any AR-15 bolt and barrel
-* [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-10_cartridges) since rifle can accept any AR-10 bolt and barrel 
+* [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-10_cartridges) since rifle can accept any AR-10 bolt and barrel
+
 Feed system:
-Currently Supported:
 * STANAG pattern box magazines
 * SR-25 pattern box magazines
 * [AKM/AK47 pattern magazines](https://www.youtube.com/watch?v=b_HmSsgaH1Y)
 * AK74 pattern magazines
 * SIX8/Magpul ICAR magazines
 
-Ejection Port: Ejection port is down, behind the magwell. This was done for true ambidextrous operation. There is an ejection port interface that allows the attachment of accessories. No accessory is required for operation.
+Ejection Port:
+
+Ejection port is down, behind the magwell. This was done for true ambidextrous operation. There is an ejection port interface that allows the attachment of accessories. No accessory is required for operation.
 
 Inspection port window:
+
 The downward ejection port can no longer be used to clear jams or see if the weapon is loaded. This is a critical flaw in the Kel-Tec RDB. I fixed this by placing an opening on the top of the upper receiver. The non reciprocating charging handle acts as the “cover” for this opening, so it will only be exposed when the charging handle is pulled, and stay closed when the rifle is firing. This will also shield the operator from any gas blowback. The NRCH has a forward assist built into it.
 
 Additional features:
