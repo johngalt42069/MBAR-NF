@@ -1,5 +1,7 @@
 # Modular Bullpup Automatic Rifle (MBAR) NON-FUNCTIONAL VERSION
 
+[Overview](https://www.youtube.com/watch?v=AvMNI2KH16s)
+
 This repo is modified for use in video games, and does not contain any functional gemoetry. All part SCAD/STEP files have been removed. Therefore it is not controlled by ITAR/EAR. All fasteners, mounts, rails, bolt carrier firing pin, and fire control systems have all been removed. This lowers the polygon count for optimal game performance. Only the external geometry is 1:1 with the actual rifle.
 
 I am giving permission for any game developer to use this in any game free of charge. I only ask that you do your best to depict the rifle accurately, and acknowledge me as the creator. Please contact me at johngalt@atlas-eng.net if you have any questions.
