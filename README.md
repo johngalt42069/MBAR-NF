@@ -6,6 +6,8 @@ I am giving permission for any game developer to use this in any game free of ch
 
 I would highly encourage watching the videos on my [Youtube channel](https://www.youtube.com/@johngalt4206) to learn how the rifle works. I've spent many hours documenting it as accurately as possible.
 
+Please consider making a [donation](https://www.paypal.com/donate/?hosted_button_id=9U85FFV2R2CKY) so I can continue releasing free content.
+
 Specs of IRL rifle:
 
 Basic empty weight: 6lbs (unloaded no optic laser flashlight or any other accessory)
