@@ -7,12 +7,19 @@ I am giving permission for any game developer to use this in any game free of ch
 I would highly encourage watching the videos on my [Youtube channel](https://www.youtube.com/@johngalt4206) to learn how the rifle works. I've spent many hours documenting it as accurately as possible.
 
 Specs of IRL rifle:
+
 Basic empty weight: 6lbs (unloaded no optic laser flashlight or any other accessory)
+
 Overall length: barrel length + 12in (mine has 18” barrel and 30” OAL)
+
 Barrel length: mine has Faxon 18” heavy flute barrel with a rifle length system, but it can work for any length barrel
+
 Length of pull: 13.5in (basically the same as an AUG)
+
 Trigger Weight: varies based on the FCM used
+
 Rate of fire: ~500 RPM
+
 Cartridge:
 * [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-15_cartridges) since rifle can accept any AR-15 bolt and barrel
 * [any of these](https://en.wikipedia.org/wiki/List_of_AR_platform_cartridges#AR-10_cartridges) since rifle can accept any AR-10 bolt and barrel 
@@ -51,4 +58,4 @@ Additional features:
 
 You will want to install OpenSCAD (use nightly until there is a more recent release) to view the assembly.
 This will show you how all the parts fit together. Open SCAD/assembly/complete.scad. Toggle the options to explode the model or change to a different cartridge.
-If you need more detail open the any of the *.scad subassemblies in the folder.
+If you need more detail open the any of the *.scad sub-assemblies in the folder.
